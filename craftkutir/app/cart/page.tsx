@@ -212,9 +212,9 @@ export default function CartPage() {
 
               <Link
                 href="/"
-                className="block text-center mt-4 text-sm text-[#6B3A1E] hover:underline"
+                className="block text-center mt-2 text-sm text-[#6B3A1E] hover:underline"
               >
-                ← go to dashboard
+                ← Continue Shopping
               </Link>
               
               <img
