@@ -214,13 +214,13 @@ export default function CartPage() {
                 href="/"
                 className="block text-center mt-4 text-sm text-[#6B3A1E] hover:underline"
               >
-                ← Continue Shopping
+                ← go to dashboard
               </Link>
               
               <img
                 src="girl.png"
                 alt=""
-                className="-mt-20 mx-auto"
+                className="-mt-0 mx-auto w-40 h-auto"
               />
             </div>
 
